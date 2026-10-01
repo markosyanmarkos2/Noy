@@ -1,2 +1,17 @@
+/* #root{
+    background-color: black;
+} */
 
+.swiper-pagination-bullet {
+ opacity: 1 !important;
+  border: 1px solid white;
+  background-color: white !important;
+  border-radius: 50%;
+}
+
+.swiper-pagination-bullet-active {
+ border: 1px solid white;
+ opacity: 1 !important;
+ background: transparent !important;
+}
 @import "tailwindcss"
