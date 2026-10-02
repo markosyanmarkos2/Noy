@@ -1,6 +1,7 @@
 import Header_layouts from "../Layouts/Header/Header"
 import OriginOfNoy from "../Layouts/OriginOfNoy/OriginSectin"
-import ProductShowCaseNoy_section from "../Layouts/ProductShowCase/ProductSection"
+import ProductShowCaseBjni_section from "../Layouts/ProductShowCase/BjniSection/ProductSection"
+import ProductShowCaseNoy_section from "../Layouts/ProductShowCase/NoySection/ProductSection"
 import HeroSlider from "../Layouts/Sliders/HeroSlider/HeroSlider"
 
 const HomePage_Component = () => {
@@ -14,6 +15,8 @@ const HomePage_Component = () => {
       <OriginOfNoy />
       {/*  */}
       <ProductShowCaseNoy_section />
+      {/*  */}
+      <ProductShowCaseBjni_section />
     </>
 
   )
