@@ -17,3 +17,10 @@ export const originOfNoy = {
     titleStyles:`text-[22px] text-[#2D2D2D] text-center font-[sans-serif] min-[1536px]:text-[40px] min-[830px]:text-[32px] min-[430px]:text-[26px] `,
     bodyStyles:`text-[14px] text-[#2D2D2D] font-[arial] text-center 2xl:text-[20px] min-[830px]:text-[16px] min-[830px]:leading-[140%]`
 }
+
+export const productShowCaseStyles = {
+    noy:{
+        gif:`https://www.noy.am/_nuxt/water-43.62d72b4b.gif`,
+        bottleImg:`absolute w-full h-[430px] bg-[url(https://www.noy.am/_nuxt/Noy-white-bottle.9bbfef5d.png)] bg-no-repeat  bg-[length:100%_100%] 2xl:h-[592px] min-[1220px]:h-[484px] top-[-15%]`
+    }
+}
