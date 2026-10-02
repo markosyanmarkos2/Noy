@@ -12,3 +12,8 @@ export const heroSliderStyles = {
         bjniText: `font-bold leading-[120%] text-[40px] min-[1536px]:text-[100px] min-[1024px]:text-[70px] min-[1024px]:w-[700px] min-[432px]:text-[60px] min-[835px]:w-[400px]`
     }
 }
+export const originOfNoy = {
+    parentDivStyles:`flex flex-col items-center p-[64px_16%_64px_16%] min-[430px]:p-[80px_16%_80px_16%] gap-[15px] min-[430px]:gap-[30px]`,
+    titleStyles:`text-[22px] text-[#2D2D2D] text-center font-[sans-serif] min-[1536px]:text-[40px] min-[830px]:text-[32px] min-[430px]:text-[26px] `,
+    bodyStyles:`text-[14px] text-[#2D2D2D] font-[arial] text-center 2xl:text-[20px] min-[830px]:text-[16px] min-[830px]:leading-[140%]`
+}
